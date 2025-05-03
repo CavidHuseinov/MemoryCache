@@ -1,0 +1,7 @@
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.csproj.AssemblyReference.cache
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.AssemblyInfoInputs.cache
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.AssemblyInfo.cs
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.csproj.CoreCompileInputs.cache
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\MemoryCache\MemoryCache\obj\Debug\net8.0\MemoryCache.WepAPI.MvcApplicationPartsAssemblyInfo.cache

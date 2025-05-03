@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Vbw0GGtQILhYj8V65+wYY0g4sgbC64dsfnnbbELs52M=",
+  "Source": "MemoryCache.WebAPI",
+  "BasePath": "_content/MemoryCache.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
